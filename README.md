@@ -1,4 +1,4 @@
-# olympic_history
+# Project Report: 120 Years of Olympic History - Athletes and Results
 ## 1. Olympic Games Overview
 ### How many Olympic Games have been held?
 
